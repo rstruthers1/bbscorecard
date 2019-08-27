@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://appuser:password1@localhost:27018/bbscorecard?retryWrites=true",
+  "jwtSecret" : "mysecrettoken"
+}
